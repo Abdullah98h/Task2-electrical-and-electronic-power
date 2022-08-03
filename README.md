@@ -1,7 +1,7 @@
 # Task 2-Electrical-and-electronic-power
 This repository contains two subtasks:
-- [On off system](https://github.com/farahhrs/Task2-Electrical-and-electronic-power#on-off-system)
-- [Forward kinematics & inverse kinematics](https://github.com/farahhrs/Task2-Electrical-and-electronic-power#forward-kinematics--inverse-kinematics)
+- [On off system](https://github.com/Abdullah98h/Task2-electrical-and-electronic-power/tree/main/On%20off%20system)
+- [Forward kinematics & inverse kinematics](https://github.com/Abdullah98h/Task2-electrical-and-electronic-power/tree/main/Forward%20kinematics%20and%20inverse%20kinematics)
 ## On off system
 In this task I made an electronic circuit that consists of the folloiwng components:
 - Small Signal nMOS Transistor
@@ -39,7 +39,7 @@ void loop()
 }
 ```
 This circuit enable the auto shutdown by the arduino, the motor will rotate only when the pushbutton clicked, otherwise the motor will never rotate.
-- Click [here](https://www.tinkercad.com/things/hP8x8h8XdHQ-bodacious-jaiks-crift/editel?sharecode=Dn_C5lPQhzsvtIkSJjDFKiJFKJQM5L63AIrcKs9e6DA) to simulate the circuit on tinkercad.
+
 ------------------------------------
 
 ## Forward kinematics & inverse kinematics
@@ -132,4 +132,3 @@ In this task I draw a robot arm with a 3 DOF, then I applied the forward kinemat
       >  (x,y)= (38.75, 18.02)
   -----------------------
 
-#### Click [here](https://github.com/farahhrs/Task2-Electrical-and-electronic-power/blob/main/Forward%20kinematics%20%26%20inverse%20kinematics/Forward%20and%20inverse%20kinematics.pdf) to see the file that contains the whole calculations and soltuions 
